@@ -141,4 +141,22 @@
 
 }
 
+.buttons {
+	position:fixed;
+	top:445px;
+	left:545px;
+}
+
+.buttons button {
+	font-family:arial, sans-serif;
+	font-size:0.88em;
+	color:#5C5B5B;
+	padding:9px;
+	background-color:#EFEFEF;
+	border:solid 1px #B2B2B2; 
+}
+
+.buttons button:hover {
+	box-shadow: 0 0 3px 0.5px #B2B2B2;
+}
 
