@@ -1,4 +1,5 @@
 # google-homepage
 
-Google Homepage Project
-Link: http://www.theodinproject.com/web-development-101/html-css 
+Google Homepage 
+
+See: [The Odin Project](http://www.theodinproject.com/web-development-101/html-css)

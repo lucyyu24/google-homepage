@@ -74,6 +74,15 @@
 	top:179px;
 }
 
+#canada {
+	position: fixed;
+	left:785px;
+	top:310px;
+	font-family:arial, sans-serif; 
+	font-size:1.2em;
+	color: #616161;
+}
+
 #searchContainer {
 	position:fixed;
 	left:375px;
@@ -98,6 +107,21 @@
 	outline: none;
 	border: solid 1px #2E72FA;
 }
+
+#mic {
+	background-image: URL('Images/light-mic.png');
+	height: 29px;
+	width: 29px;
+	position: fixed;
+	left: 950px;
+	top: 394px;
+}
+
+#mic:hover {
+	background-image: URL('Images/dark-mic.png');
+	top: 393px;
+}
+
 
 .bNavBar {
 	position: fixed;
